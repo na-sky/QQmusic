@@ -1,0 +1,51 @@
+[
+  {
+    "filename": "./songs/saysomething.mp3",
+    "duration": "03:49",
+    "title": "Say Something",
+    "album": "Is There Anybody Out There?",
+    "artist": " Big World"
+  },
+  {
+    "filename": "./songs/张信哲-爱如潮水.mp3",
+    "duration": "04:33",
+    "title": "爱如潮水",
+    "album": "永恒金曲 影音典藏精选",
+    "artist": "张信哲"
+  },
+  {
+    "filename": "./songs/张信哲-爱就一个字.mp3",
+    "duration": "04:32",
+    "title": "爱就一个字",
+    "album": "我好想",
+    "artist": "张信哲"
+  },
+  {
+    "filename": "./songs/张信哲-过火(国语).mp3",
+    "duration": "05:03",
+    "title": "过火 (国语)",
+    "album": "宽容",
+    "artist": "张信哲"
+  },
+  {
+    "filename": "./songs/李行亮-愿得一人心.mp3",
+    "duration": "04:43",
+    "title": "愿得一人心",
+    "album": "最美的时光 电视原声带",
+    "artist": "李行亮"
+  },
+  {
+    "filename": "./songs/陈奕迅-K歌之王.mp3",
+    "duration": "03:43",
+    "title": "K歌之王",
+    "album": "70th Anniversary Collection",
+    "artist": "陈奕迅"
+  },
+  {
+    "filename": "./songs/陈奕迅-十年.mp3",
+    "duration": "03:25",
+    "title": "十年",
+    "album": "黑白灰",
+    "artist": "陈奕迅"
+  }
+]
